@@ -1,9 +1,0 @@
-Package: com.ayz.removediscover
-Name: RemoveDiscover
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Ayz
-Author: Ayz
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
