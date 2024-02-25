@@ -1,4 +1,4 @@
-This Tweaks Removes Annoying Discover Page.
+This Tweaks Removes Annoying Discover Page from Snapchat.
 
 ![alt text](https://i.imgur.com/hIfDjqH.jpeg)
 
