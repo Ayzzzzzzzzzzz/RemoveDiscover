@@ -1,0 +1,9 @@
+Package: com.ayz.removediscover
+Name: RemoveDiscover
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Snapchat Tweak that removes annoying Discover Section
+Maintainer: Ayz
+Author: Ayz
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
