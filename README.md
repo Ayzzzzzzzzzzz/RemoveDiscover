@@ -1,4 +1,4 @@
-If you like this Repo, consider likimg and Following :)
+If you like this Repo, consider liking and Following :)
 
 
 This Tweaks Removes Annoying Discover Page from Snapchat.
