@@ -1,3 +1,6 @@
+If you like this Repo, consider likimg and Following :)
+
+
 This Tweaks Removes Annoying Discover Page from Snapchat.
 
 Make sure to not open the deb file when its saved in icloud.
